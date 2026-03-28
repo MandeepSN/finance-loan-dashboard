@@ -47,6 +47,7 @@ The dataset contains loan-related information such as:
 
 ## 📷 Dashboard Preview
 [Dashboard](https://github.com/MandeepSN/finance-loan-dashboard/blob/main/Finance%20Summary.png)
+[Overview](https://github.com/MandeepSN/finance-loan-dashboard/blob/main/Finance%20Overview.png)
 
 ---
 
